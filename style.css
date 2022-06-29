@@ -1,0 +1,40 @@
+.dada{display: grid;
+grid-template-columns:  1fr 1fr 1fr}
+
+.d1{color: antiquewhite;
+    background-color: blueviolet;
+    height: 440px;
+    margin-top: 50px;
+    margin-left:25px ;
+}
+
+    .d2{color: rgb(179, 78, 38);
+        background-color: rgb(43, 35, 114);
+        height: 440px;
+        margin-top: 50px;
+        margin-left:25px ;
+        margin-right:25PX ;
+    }
+
+        .d3{color: rgb(97, 156, 28);
+            background-color: rgb(236, 66, 14);
+            height: 440px;
+        margin-top: 50px;
+    margin-right: 10px;}
+         
+    
+
+
+.h{background-color: aqua;
+text-align: center;
+border-radius: 25px;
+font-size: 50px;}
+
+.u{background-color: rgb(20, 57, 223);
+    font-size: 40px;}
+
+    .o{background-color: rgb(235, 250, 23);
+        font-size: 40px;}
+
+        .D{background-color: rgb(23, 13, 165);
+            font-size: 30px;}
